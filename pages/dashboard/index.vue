@@ -9,7 +9,6 @@
           >
             <span v-if="loggedIn" class="text-indigo-600">Bienvenido, {{ user.name }}</span>
           </h2>
-          <p class="text-md md:text-xl mt-10">Prueba Tecnica Laravel Vue Alan Ayala</p>
         </div>
    
       </div>
